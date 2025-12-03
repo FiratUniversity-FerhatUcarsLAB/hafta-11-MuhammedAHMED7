@@ -1,3 +1,8 @@
+/*
+250541604
+Muhammed AHMED
+3.12.2025
+*/
 public class Multadd {
 
     public static double multadd(double a, double b, double c) {
