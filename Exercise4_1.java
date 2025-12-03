@@ -1,3 +1,8 @@
+/*
+250541604
+Muhammed AHMED
+3.12.2025
+*/
 import java.util.Scanner;
 
 public class Exercise4_1 {
