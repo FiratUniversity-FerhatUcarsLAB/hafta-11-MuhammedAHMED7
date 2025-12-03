@@ -1,14 +1,11 @@
-public class Exercise4_1 {
-
-    public static void printAmerican(String day, int date, String month, int year) {
-        // TODO
-    }
-
-    public static void printEuropean(String day, int date, String month, int year) {
-        // TODO
-    }
-
-    public static void main(String[] args) {
-        // TODO: test methods
-    }
-}
+ public static void printAmerican ( String day ,
+2 int date , String month , int year ) {
+3
+4 ...
+5 }
+6
+7 public static void printEuropean ( String day ,
+8 int date , String month , int year ) {
+9
+0 ...
+ }
