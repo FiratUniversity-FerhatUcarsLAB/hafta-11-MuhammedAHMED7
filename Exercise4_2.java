@@ -17,7 +17,7 @@ public class Exercise4_2 {
         } else {
             System.out.println("ik");
             baffle(quince);
-            System.out.println("boo-wa-ha-ha");
+            System.out.println("bo-wa-ha-ha");
         }
     }
 }
