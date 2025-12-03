@@ -1,6 +1,9 @@
+/*
+250541604
+Muhammed AHMED
+3.12.2025
+*/
 public class Exercise4_2 {
-
-  // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
 
     public static void main(String[] args) {
         zippo("rattle", 13);
